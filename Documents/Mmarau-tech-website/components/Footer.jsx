@@ -15,13 +15,10 @@ const Footer = () => {
           <a href="#" className="hover:text-gray-400">Contact</a>
         </div>
         <div className="flex justify-center space-x-4 mt-4">
-          <a href="#" className="text-xl hover:text-gray-400">
+          <a href="https://x.com/gdgoc_mmarau1?t=2QPCpa0dSXKWT2PnVC43fw&s=09" className="text-xl hover:text-gray-400">
             <FaTwitter />
           </a>
-          <a href="#" className="text-xl hover:text-gray-400">
-            <FaLinkedin />
-          </a>
-          <a href="#" className="text-xl hover:text-gray-400">
+          <a href="https://github.com/gdgoc-mmarau1" className="text-xl hover:text-gray-400">
             <FaGithub />
           </a>
         </div>
